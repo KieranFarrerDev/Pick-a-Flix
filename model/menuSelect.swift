@@ -1,5 +1,5 @@
 //
-//  genreButtonSelect.swift
+//  menuSelect.swift
 //  Pick-a-Flix
 //
 //  Created by Kieran Farrer on 06/12/2019.
