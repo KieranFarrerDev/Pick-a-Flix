@@ -29,7 +29,7 @@ class genreButtonSelect: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-styling()
+        styling()
         // Do any additional setup after loading the view.
     }
     
@@ -37,7 +37,6 @@ styling()
     @IBAction func RandomFromGenreTapped(_ sender: UIButton) {
     }
     
-
     
     @IBAction func completleyRandomTapped(_ sender: UIButton) {
              
