@@ -32,14 +32,14 @@
         
         @IBAction func backButton(_ sender: UIButton) {
             pickAgenre.structname.Adventure = 0
-                   page2.structname.Action = 0
-                   page2.structname.Anime = 0
-                   page2.structname.Comedy = 0
-                   page2.structname.Crime = 0
-                   page2.structname.Documnetary = 0
-                   page2.structname.Drama = 0
-                   page2.structname.RomCom = 0
-                   page2.structname.Horror = 0
+                   pickAgenre.structname.Action = 0
+                   pickAgenre.structname.Anime = 0
+                   pickAgenre.structname.Comedy = 0
+                   pickAgenre.structname.Crime = 0
+                   pickAgenre.structname.Documnetary = 0
+                   pickAgenre.structname.Drama = 0
+                   pickAgenre.structname.RomCom = 0
+                   pickAgenre.structname.Horror = 0
         }
         
         
@@ -112,14 +112,4 @@
         }
             
     }
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
-    }
-    */
-
 
